@@ -1,0 +1,1 @@
+module.exports = require("npm:i18next-xhr-backend@1.3.0/index.js");
