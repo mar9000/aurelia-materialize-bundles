@@ -12,7 +12,7 @@ System.config({
   paths: {
     "github:*": "https://cdn.rawgit.com/mar9000/aurelia-materialize-bundles/0.24.0-1_i18n/jspm_packages/github/*",
     "npm:*": "https://cdn.rawgit.com/mar9000/aurelia-materialize-bundles/0.24.0-1_i18n/jspm_packages/npm/*",
-    "bundles/bundle.js": "https://cdn.rawgit.com/mar9000/aurelia-materialize-bundles_i18n/0.24.0-1_i18n/bundles/bundle.js"
+    "bundles/bundle.js": "https://cdn.rawgit.com/mar9000/aurelia-materialize-bundles/0.24.0-1_i18n/bundles/bundle.js"
   },
   map: {
     "aurelia-animator-css": "npm:aurelia-animator-css@1.0.1",
